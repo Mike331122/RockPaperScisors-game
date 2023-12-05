@@ -1,6 +1,6 @@
 # RockPaperScisors-game
 
-Gra papier kamień nożyce to kolejny projekt z filmu poysły do portfolio.
+Gra papier kamień nożyce to kolejny projekt z filmu pomysły do portfolio.
 
 Po naciśnięciu START rozpocznie się odliczanie w	czasie	którym użytkownik powinien wybrać jaką "ręką" chce zagrać. 
 Gracz po upływie 4 sekund zapoznaje się w wyborem komputera po czym przydzielany jest punkt wygranemu, a następnie 
